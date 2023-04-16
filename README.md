@@ -10,7 +10,7 @@
 <!-- <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> -->
 <!-- - 🔭 I’m currently working on **<img src="./react.png"/>** -->
 
-- 🎓 Graduated in BS- computer science with **A+ Grade FYP**
+- 🎓 Graduated in BS- computer science with **A+ Grade FYP** (in DevOps)
 - 👨‍💻 All of my projects are available at **MY github**
 - ⭐ Currently working as DevOps at Venturenox.
 - 📫 How to reach me **muneebshoukat111@gmail.com**

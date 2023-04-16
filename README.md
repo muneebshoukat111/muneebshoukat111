@@ -6,6 +6,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muneebshoukat111&label=Profile%20views&color=0e75b6&style=flat" alt="muneebshoukat111" /> </p>
 
+## 🙋‍♂️ About Me
+<!-- <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> -->
+<!-- - 🔭 I’m currently working on **<img src="./react.png"/>** -->
+
+- 🎓 Graduated in BS- computer science with **A+ Grade FYP**
+- 👨‍💻 All of my projects are available at **MY github**
+- ⭐ Currently working as DevOps at Venturenox.
+- 📫 How to reach me **muneebshoukat111@gmail.com**
+- ⚡ Fun fact **I love DevOps and I'm a quick learner.**
+
+## 🚀 Technologies I know
+
+- AWS
+- Docker ( build ,compose ,swarm )
+- kubernetes 
+- Jenkins
+- Terraform
+- Zabbix
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muneeb shoukat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muneeb shoukat" height="30" width="40" /></a>

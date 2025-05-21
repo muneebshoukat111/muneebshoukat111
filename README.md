@@ -27,8 +27,8 @@
 - 🔧 **Infrastructure as Code (IaC)** using Terraform for scalable, HA AWS deployments.
 - 🔁 **Configuration Management** with Ansible for automated provisioning and system setup.
 - 🐳 **Containerization** with Docker for app deployment and management.
-- ☸️ **Orchestration** with Kubernetes (EKS) to manage production-ready clusters.
-- 🚀 **CI/CD Pipelines** with **Drone CI**, enabling smooth code integration and delivery.
+- ☸️ **Orchestration** with Kubernetes  to manage production-ready clusters.
+- 🚀 **CI/CD Pipelines** with **Drone CI**, **Jenkins CI**, enabling smooth code integration and delivery.
 - 📦 **Helm** for Kubernetes package management and release automation.
 - 📊 **Monitoring & Logging** with **Prometheus**, **Zabbix**, **Grafana**, and **Loki** for observability.
 - 🐧 **Linux**, **Git**, and advanced **cloud-native tools** round out my toolkit.
@@ -39,11 +39,11 @@
 
 | **Category** | **Tools & Technologies** |
 |-------------|---------------------------|
-| Cloud       | AWS (EKS, EC2, S3, IAM)   |
+| Cloud       | AWS | Azure | GCP
 | IaC         | Terraform, CloudFormation |
 | CM Tools    | Ansible                   |
 | Containers  | Docker, Docker Compose    |
-| Orchestration | Kubernetes (EKS)        |
+| Orchestration | Kubernetes |
 | CI/CD       | Drone, Jenkins, GitHub Actions |
 | Monitoring  | Prometheus, Grafana, Zabbix |
 | Logging     | Loki, Grafana             |

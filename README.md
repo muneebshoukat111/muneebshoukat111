@@ -1,40 +1,78 @@
-![logo](https://github.com/muneebshoukat111/Muneeb-shoukat/blob/main/360_F_282378637_7DL904AvZkZovk3RqLdLwNe21RNcjpzg.jpg)
+<p align="center">
+  <img src="https://github.com/muneebshoukat111/Muneeb-shoukat/blob/main/360_F_282378637_7DL904AvZkZovk3RqLdLwNe21RNcjpzg.jpg" width="200"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Muneeb Shoukat</h1>
-<h3 align="center">A passionate Devops Engr from Pakistan</h3>
+<h3 align="center">🚀 DevOps Engineer | AWS | Kubernetes | CI/CD | Terraform</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muneebshoukat111&label=Profile%20views&color=0e75b6&style=flat" alt="muneebshoukat111" /> </p>
-
-## 🙋‍♂️ About Me
-<!-- <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> -->
-<!-- - 🔭 I’m currently working on **<img src="./react.png"/>** -->
-
-- 🎓 Graduated in BS- computer science with **A+ Grade FYP** (in DevOps)
-- 👨‍💻 All of my projects are available at **MY github**
-- ⭐ Currently working as DevOps at Venturenox.
-- 📫 How to reach me **muneebshoukat111@gmail.com**
-- ⚡ Fun fact **I love DevOps and I'm a quick learner.**
-
-## 🚀 Technologies I know
-
-- AWS
-- Docker ( build ,compose ,swarm )
-- kubernetes 
-- Jenkins
-- Terraform
-- Zabbix
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muneeb shoukat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muneeb shoukat" height="30" width="40" /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=muneebshoukat111&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muneebshoukat111&show_icons=true&locale=en&layout=compact" alt="muneebshoukat111" /></p>
+## 🙋‍♂️ About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muneebshoukat111&show_icons=true&locale=en" alt="muneebshoukat111" /></p>
+ 
+💼 Currently working as a **DevOps Engineer** at **Venturenox**  
+📫 Reach me at **muneebshoukat111@gmail.com**  
+⚡ Fun fact: **I’m always automating something!**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muneebshoukat111&" alt="muneebshoukat111" /></p>
+---
+
+## 🧠 What I Do
+
+- 🔧 **Infrastructure as Code (IaC)** using Terraform for scalable, HA AWS deployments.
+- 🔁 **Configuration Management** with Ansible for automated provisioning and system setup.
+- 🐳 **Containerization** with Docker for app deployment and management.
+- ☸️ **Orchestration** with Kubernetes (EKS) to manage production-ready clusters.
+- 🚀 **CI/CD Pipelines** with **Drone CI**, enabling smooth code integration and delivery.
+- 📦 **Helm** for Kubernetes package management and release automation.
+- 📊 **Monitoring & Logging** with **Prometheus**, **Zabbix**, **Grafana**, and **Loki** for observability.
+- 🐧 **Linux**, **Git**, and advanced **cloud-native tools** round out my toolkit.
+
+---
+
+## 🛠️ Tech Stack
+
+| **Category** | **Tools & Technologies** |
+|-------------|---------------------------|
+| Cloud       | AWS (EKS, EC2, S3, IAM)   |
+| IaC         | Terraform, CloudFormation |
+| CM Tools    | Ansible                   |
+| Containers  | Docker, Docker Compose    |
+| Orchestration | Kubernetes (EKS)        |
+| CI/CD       | Drone, Jenkins, GitHub Actions |
+| Monitoring  | Prometheus, Grafana, Zabbix |
+| Logging     | Loki, Grafana             |
+| Scripting   | Bash, YAML                |
+| Databases   | PostgreSQL, MongoDB, Redis, MariaDB |
+| OS          | Linux                     |
+| VCS         | Git                       |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muneebshoukat111&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muneebshoukat111&theme=radical" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muneebshoukat111&show_icons=true&locale=en&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/muneeb%20shoukat" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:muneebshoukat111@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="40"/>
+  </a>
+</p>

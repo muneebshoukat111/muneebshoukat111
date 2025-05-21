@@ -39,7 +39,7 @@
 
 | **Category** | **Tools & Technologies** |
 |-------------|---------------------------|
-| Cloud       | AWS | Azure | GCP |
+| Cloud       | AWS Azure GCP |
 | IaC         | Terraform, CloudFormation |
 | CM Tools    | Ansible                   |
 | Containers  | Docker, Docker Compose    |

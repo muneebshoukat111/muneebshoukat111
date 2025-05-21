@@ -1,5 +1,6 @@
+<!-- Banner -->
 <p align="center">
-  <img src="https://github.com/muneebshoukat111/Muneeb-shoukat/blob/main/360_F_282378637_7DL904AvZkZovk3RqLdLwNe21RNcjpzg.jpg" width="200"/>
+  <img src="https://github.com/muneebshoukat111/Muneeb-shoukat/blob/main/360_F_282378637_7DL904AvZkZovk3RqLdLwNe21RNcjpzg.jpg" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muneeb Shoukat</h1>
@@ -15,7 +16,6 @@
 
 ## 🙋‍♂️ About Me
 
- 
 💼 Currently working as a **DevOps Engineer** at **Venturenox**  
 📫 Reach me at **muneebshoukat111@gmail.com**  
 ⚡ Fun fact: **I’m always automating something!**
@@ -39,11 +39,11 @@
 
 | **Category** | **Tools & Technologies** |
 |-------------|---------------------------|
-| Cloud       | AWS Azure GCP
+| Cloud       | AWS | Azure | GCP |
 | IaC         | Terraform, CloudFormation |
 | CM Tools    | Ansible                   |
 | Containers  | Docker, Docker Compose    |
-| Orchestration | Kubernetes |
+| Orchestration | Kubernetes              |
 | CI/CD       | Drone, Jenkins, GitHub Actions |
 | Monitoring  | Prometheus, Grafana, Zabbix |
 | Logging     | Loki, Grafana             |
